@@ -1,0 +1,41 @@
+North	Technical Support	800	950	750	2500
+North	Overhead	850	750	800	2400
+North	Maintenance	940	950	820	2710
+North	Telephone	980	850	950	2780
+North	Contractors	1250	1250	1250	3750
+North	Software	1150	1255	1400	3805
+North	Supplies	2410	1850	2390	6650
+North	Telemarketing	3200	3760	3750	10710
+North	Copying	5000	4800	4500	14300
+North	Consultants	5250	8990	5515	19755
+North	Rent	6020	6020	6020	18060
+North	Miscellaneous	12940	11300	11500	35740
+North	Advertising	14250	15250	12050	41550
+North	Clerical Support	25700	24200	26930	76830
+North	Software	1150	1255	1400	3805
+North	Supplies	2410	1850	2390	6650
+North	Telemarketing	3200	3760	3750	10710
+North	Copying	5000	4800	4500	14300
+North	Consultants	5250	8990	5515	19755
+North	Rent	6020	6020	6020	18060
+North	Miscellaneous	12940	11300	11500	35740
+North	Advertising	14250	15250	12050	41550
+North	Clerical Support	25700	24200	26930	76830
+North	Software	1150	1255	1400	3805
+North	Supplies	2410	1850	2390	6650
+North	Telemarketing	3200	3760	3750	10710
+North	Copying	5000	4800	4500	14300
+North	Consultants	5250	8990	5515	19755
+North	Rent	6020	6020	6020	18060
+North	Miscellaneous	12940	11300	11500	35740
+North	Advertising	14250	15250	12050	41550
+North	Clerical Support	25700	24200	26930	76830
+North	Software	1150	1255	1400	3805
+North	Supplies	2410	1850	2390	6650
+North	Telemarketing	3200	3760	3750	10710
+North	Copying	5000	4800	4500	14300
+North	Consultants	5250	8990	5515	19755
+North	Rent	6020	6020	6020	18060
+North	Miscellaneous	12940	11300	11500	35740
+North	Advertising	14250	15250	12050	41550
+North	Clerical Support	25700	24200	26930	76830

@@ -1,0 +1,15 @@
+West	Overhead	775	750	700	2225
+West	Telephone	700	750	750	2200
+West	Technical Support	300	100	150	550
+West	Supplies	2000	1800	1900	5700
+West	Maintenance	2000	950	800	3750
+West	Contractors	1250	1250	1250	3750
+West	Software	1150	1200	1435	3785
+West	Telemarketing	3800	3700	3750	11250
+West	Copying	5000	4800	4545	14345
+West	Rent	5000	5000	5000	15000
+West	Consultants	5250	5335	5500	16085
+West	Advertising	10250	10250	10750	31250
+West	Miscellaneous	14500	13500	15500	43500
+West	Salaries	72000	70000	70000	212000
+West	Clerical Support	25000	24000	26000	75000

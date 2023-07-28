@@ -1,0 +1,31 @@
+South	Overhead	2140	2310	2000	6450
+South	Technical Support	730	525	430	1685
+South	Telephone	700	750	750	2200
+South	Maintenance	2000	950	800	3750
+South	Supplies	745	780	900	2425
+South	Software	1150	1200	1400	3750
+South	Copying	2780	3590	2300	8670
+South	Contractors	3490	32840	3070	39400
+South	Rent	4700	4700	4700	14100
+South	Consultants	5250	5000	5500	15750
+South	Telemarketing	6980	6310	6375	19665
+South	Advertising	11250	11250	11750	34250
+South	Miscellaneous	24500	23500	24500	72500
+South	Salaries	56900	62800	60870	180570
+South	Clerical Support	24290	24050	26600	74940
+South	Overhead	2140	2310	2000	6450
+South	Technical Support	730	525	430	1685
+South	Telephone	700	750	750	2200
+South	Maintenance	2000	950	800	3750
+South	Supplies	745	780	900	2425
+South	Software	1150	1200	1400	3750
+South	Copying	2780	3590	2300	8670
+South	Contractors	3490	32840	3070	39400
+South	Rent	4700	4700	4700	14100
+South	Consultants	5250	5000	5500	15750
+South	Telemarketing	6980	6310	6375	19665
+South	Advertising	11250	11250	11750	34250
+South	Miscellaneous	24500	23500	24500	72500
+South	Salaries	56900	62800	60870	180570
+South	Clerical Support	24290	24050	26600	74940
+					
